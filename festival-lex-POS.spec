@@ -6,6 +6,7 @@ Release:	3
 License:	distributable
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/download/festival/1.4.2/festlex_POSLEX.tar.gz
+# Source0-md5:	742c266e4c4978fae2b5c1bf6f549eb4
 Requires:	festival
 Requires:	festival-lex-english
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
