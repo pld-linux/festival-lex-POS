@@ -25,7 +25,7 @@ rozpowszechnianego przez LDC, opartego na danych pochodz±cych z Wall
 Street Journal.
 
 %prep
-%setup -q -c %{name}-%{version}
+%setup -q -c
 
 %install
 rm -rf $RPM_BUILD_ROOT
