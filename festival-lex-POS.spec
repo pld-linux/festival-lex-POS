@@ -1,5 +1,5 @@
 Summary:	'Part of Speech' lexical models
-Summary(pl.UTF-8):   Modele leksykalne części mowy
+Summary(pl.UTF-8):	Modele leksykalne części mowy
 Name:		festival-lex-POS
 Version:	0.1
 Release:	4
