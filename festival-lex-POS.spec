@@ -1,5 +1,5 @@
 Summary:	'Part of Speech' lexical models
-Summary(pl):	Modele leksykalne czê¶ci mowy
+Summary(pl.UTF-8):   Modele leksykalne czÄ™Å›ci mowy
 Name:		festival-lex-POS
 Version:	0.1
 Release:	4
@@ -18,10 +18,10 @@ speech tagging. Information in these files were derived from the Penn
 Tree Bank distributed by the LDC, in tur derived from data from the
 Wall Street Journal.
 
-%description -l pl
-Ten pakiet zawiera leksykon i n-gramy do znaczników angielskich czê¶ci
-mowy. Informacje umieszczone w tych plikach pochodz± z Penn Tree Bank
-rozpowszechnianego przez LDC, opartego na danych pochodz±cych z Wall
+%description -l pl.UTF-8
+Ten pakiet zawiera leksykon i n-gramy do znacznikÃ³w angielskich czÄ™Å›ci
+mowy. Informacje umieszczone w tych plikach pochodzÄ… z Penn Tree Bank
+rozpowszechnianego przez LDC, opartego na danych pochodzÄ…cych z Wall
 Street Journal.
 
 %prep
