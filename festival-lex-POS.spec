@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This package contains a lexicon and an ngram for English part of
 speech tagging. Information in these files were derived from the Penn
-Tree Bank distributed by the LDC, in tur derived from data from the
+Tree Bank distributed by the LDC, in turn derived from data from the
 Wall Street Journal.
 
 %description -l pl.UTF-8
