@@ -2,7 +2,7 @@ Summary:	'Part of Speech' lexical models
 Summary(pl.UTF-8):	Modele leksykalne części mowy
 Name:		festival-lex-POS
 Version:	0.1
-Release:	5
+Release:	6
 License:	distributable
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/downloads/festival/1.95/festlex_POSLEX.tar.gz
